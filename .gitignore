@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+*.vscode/
+*.code-workspace
+
+# Packages installed by pip
+/.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+
+# Compiled files
+*.pyc
+*.pyo
+*.so
+*.out
+*.exe
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+.idea
+.ipynb_checkpoints
